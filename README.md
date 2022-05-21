@@ -1,0 +1,1 @@
+Session 5 of EVA. This Assignement includes the training of MNIST dataset with lowest number of parameters and minimal number of epochs. This excersise helps to understand how and when to use some important Pytorch transforms like BatchNorm, Dropout, Maxpool , Data Augmantation etc. I Achieved 99.44% Val Accuracy with model is around 9K params and less that 15 epochs.
